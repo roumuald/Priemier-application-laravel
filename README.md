@@ -1,2 +1,2 @@
-# Priemier-application-laravel
+# Priemiere-application-laravel
 priemiere application laravel 
